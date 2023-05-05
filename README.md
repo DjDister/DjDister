@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Filip Porębski</h1>
 <h3 align="center">Student at the Warsaw University of Technology</h3>
 
-- 🌱 I’m currently learning **Typescript**
-
 - 📫 How to reach me **porebskidister4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
